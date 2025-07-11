@@ -1,0 +1,350 @@
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\IMG_20230419_113050_773.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\photo_2023-05-11_12-34-01.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.44.35 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.44.36 (5).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.45.51 (11).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.45.51 (14).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.47.36 (5).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.48.23 (13).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.52.26 (16).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.52.26 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-11 at 17.52.26 (8).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-13 at 08.37.00 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-14 at 15.16.50 (10).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-14 at 15.17.54 (13).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-14 at 15.17.54 (15).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-14 at 15.18.38 (6).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-17 at 07.15.17.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-18 at 05.25.08 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-18 at 05.25.08.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-19 at 11.03.49 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-20 at 13.36.44 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-20 at 13.36.52 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-20 at 14.12.43 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-20 at 14.12.47.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-24 at 14.01.56.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-24 at 14.02.05.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-25 at 12.57.49.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 06.58.38 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 06.58.53.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 07.32.05 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 07.32.07 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.41.08 (24).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.41.08 (7).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.42.50 (6).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.44.56 (9).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.45.39.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.45.42 (16).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.45.42.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.46.54 (6).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-27 at 11.46.56 (7).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-28 at 09.17.50 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-28 at 09.17.51 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-30 at 09.47.39 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-30 at 09.47.40 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-04-30 at 09.47.42 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-05-02 at 11.38.37 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-05-02 at 11.38.42.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-05-02 at 11.38.48 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-05-02 at 11.38.57.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\altai\WhatsApp Image 2023-05-03 at 12.03.18 (5).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230427_211347_564.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230427_211406_673.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230427_211539_652.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230427_211547_321.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230427_211619_046.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230502_103519_508.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230502_103536_597.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230502_103542_710.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230516_104001.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230516_104059.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230516_104157.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230518_144522.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230518_144527.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230518_144529.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230518_144545.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230518_144642.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230522_140728.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230522_140802.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230522_140816.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230522_141230.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230522_141309.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093317.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093338.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093534.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093545.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093652.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093712.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093826.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_093845.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135547.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135557.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135605.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135654.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135656.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\IMG_20230523_135924.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_1_2023-05-25_09-53-42.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_1_2023-05-26_09-31-55.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-26 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-28 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-31.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-33 (3).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-33.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-36 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-36.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2023-05-10_09-18-37.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_2_2023-05-26_09-31-55.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_5_2023-05-25_09-53-42.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_5_2023-05-26_09-31-55.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_6_2023-05-25_09-53-42.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\balakovo\photo_7_2023-05-26_09-31-55.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-04-15 at 14.22.51 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-04-20 at 07.48.10 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-05-19 at 07.49.55 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-06-06 at 07.56.13 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-06-06 at 07.56.34 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-06-28 at 08.03.19.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-06-29 at 09.10.40.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-06-30 at 16.25.15 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-03 at 09.07.35 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-05 at 08.39.37 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-10 at 09.37.18.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-12 at 06.37.26 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-16 at 09.33.13 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-16 at 09.33.14 (4).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-21 at 17.16.00 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-07-26 at 06.46.52 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-08-01 at 06.41.38.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-08-04 at 09.35.43 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-08-08 at 08.26.08 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-08-18 at 07.01.00 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-08-19 at 08.53.03 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-06 at 07.52.55 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-07 at 07.18.41 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-09 at 18.30.54 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-09 at 22.59.59 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-14 at 08.55.46 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-16 at 14.27.49 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-19 at 07.24.09 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-19 at 07.24.11 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-09-28 at 06.55.46 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-02 at 04.29.26 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-02 at 04.29.39.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-05 at 06.41.21.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-05 at 06.41.36.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-12 at 13.14.21 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-17 at 04.35.15 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-17 at 04.35.18 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-18 at 03.13.34 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-28 at 15.18.49 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-10-28 at 15.18.49 (100).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-01 at 08.13.51 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-02 at 08.35.26.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-06 at 16.08.38 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-07 at 15.33.39 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-11 at 19.01.04 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-18 at 12.38.42 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-11-29 at 06.36.23 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-12-01 at 07.50.22.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-12-09 at 14.48.12 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\begickaya\WhatsApp Image 2023-12-13 at 08.47.03 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\IMG_20230422_111421.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\IMG_20230422_111625.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\IMG_20230422_112151.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_10_2023-05-29_13-42-04.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_10_2023-06-01_12-34-32.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_10_2023-06-22_13-05-54.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_1_2023-05-25_09-31-51.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_1_2023-05-29_13-42-27.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_1_2023-06-22_09-18-24.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-01-35.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-01-43 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-02-49.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-03-31 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-03-51 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-04-30.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-05-06.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-06-34 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-06-43.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-07-05.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-07-15 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-02_09-07-44.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-04_08-51-45 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-05_08-51-34 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-05_08-51-47.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-05_08-52-05 (3).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-05_08-52-34 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2023-05-05_08-53-03 (2).jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2_2023-05-29_08-48-08.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2_2023-05-29_13-42-35.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_2_2023-06-07_13-15-49.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-05-25_09-31-13.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-05-25_09-32-37.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-05-29_08-48-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-06-01_12-34-46.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-06-07_13-15-27.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_3_2023-06-07_13-15-44.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_4_2023-05-26_09-25-06.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_4_2023-05-29_08-50-03.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_4_2023-06-07_13-15-06.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_6_2023-05-25_09-31-54.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_6_2023-05-29_08-48-03.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_6_2023-06-07_13-15-19.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_7_2023-05-25_09-31-08.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_7_2023-05-25_09-31-51.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_7_2023-06-22_13-05-35.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_8_2023-06-16_09-20-30.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_9_2023-05-29_08-46-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_9_2023-05-29_08-49-28.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_9_2023-05-29_13-42-19.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\promlit\photo_9_2023-06-16_09-20-51.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_10_2023-05-25_09-35-05.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_18_2023-05-16_10-23-37.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-16_08-47-10.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-16_08-47-31.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-16_10-23-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-17_10-02-28.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-18_10-56-01.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-22_09-13-59.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_1_2023-05-22_09-14-05.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_2_2023-05-16_15-55-41.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_2_2023-05-18_10-54-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_32_2023-05-16_10-23-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_35_2023-05-16_10-23-58.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-16_08-46-56.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-16_08-47-23.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-16_08-48-14.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-16_15-55-38.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-16_15-55-41.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-24_11-20-56.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_3_2023-05-25_09-34-50.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_41_2023-05-16_10-22-59.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_4_2023-05-16_08-47-02.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_5_2023-05-16_08-48-49.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_5_2023-05-25_09-35-17.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_6_2023-05-16_08-49-04.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_6_2023-05-24_09-18-19.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_7_2023-05-24_15-56-38.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_7_2023-05-26_13-03-23.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-16_08-49-04.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-16_10-22-59.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-16_15-55-28.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-19_15-23-50.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-24_09-18-27.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_8_2023-05-24_11-20-12.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_9_2023-05-24_09-19-02.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\photo_9_2023-05-24_11-20-56.jpg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-12 at 07.15.21 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-15 at 17.37.32 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-15 at 17.37.33 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 09.31.00 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 09.31.03 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 09.31.45 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 10.08.32 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 10.10.02.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 10.42.41 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-16 at 11.52.15 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-17 at 14.40.04 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-17 at 14.40.13.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-19 at 16.00.44 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\ruzhimmash\WhatsApp Image 2023-05-30 at 15.35.23 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-13 at 15.28.17 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-13 at 18.55.04.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-13 at 18.55.07.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-13 at 18.57.59.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-16 at 13.29.22 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-16 at 13.29.22.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-16 at 13.29.23.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-16 at 13.30.29.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-17 at 14.38.32 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-17 at 14.38.32 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-21 at 12.08.16 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-21 at 12.09.27 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-21 at 14.53.26.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-21 at 14.53.27 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-21 at 14.53.29 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.03.59 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.03.59 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.05.35 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.05.36 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.05.37 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.05.37 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-04-24 at 15.05.37.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-02 at 19.49.28.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-02 at 19.50.43 (3).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-02 at 19.50.44 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-02 at 19.50.44.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-03 at 16.10.39 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-03 at 16.10.40 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-03 at 16.11.32 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-06 at 15.35.13.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-06 at 15.35.14 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-06 at 15.35.14.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-06 at 15.35.15 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-07 at 15.43.27 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-07 at 15.43.27.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-08 at 10.09.05 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-26 at 16.08.17 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-26 at 16.08.18 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-26 at 16.08.18 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-26 at 16.08.19 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-26 at 16.08.20 (2).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-27 at 16.56.44 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-28 at 10.17.13 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.20.14 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.20.15 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.20.17 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.20.17.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.20.18.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.21.33.jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\tvsz\WhatsApp Image 2023-05-30 at 17.21.34 (1).jpeg
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0162.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0164.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0170.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0180.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0193.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0195.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0197.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0215.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0217.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0235.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0242.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0243.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0254.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0264.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0271.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0300.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0315.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0316.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0325.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0331.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0342.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0350.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0355.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0368.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0372.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0383.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0411.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0417.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0419.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\IMG_0425.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1707.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1710.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1713.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1718.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1724.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1740.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1761.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1765.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1782.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1796.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1802.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1804.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1826.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1840.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1853.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1864.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1871.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1888.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1907.JPG
+C:\Study\frame_classifier\datasets\frame\dataset_frame_test\images\uralvagon\_DSC1923.JPG
