@@ -1,0 +1,15 @@
+path: C:\Study\frame_classifier
+train: training_data/codes_train.txt
+val: training_data/codes_val.txt
+test: training_data/codes_test.txt
+
+names:
+  0: altai
+  1: balakovo
+  2: begickaya
+  3: promlit
+  4: ruzhimmash
+  5: tvsz
+  6: uralvagon
+
+nc: 7  # Количество классов
