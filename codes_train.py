@@ -3,13 +3,10 @@ import torch
 
 
 def main():
-    # Проверка доступности GPU
     print(f"CUDA доступен: {torch.cuda.is_available()}")
 
-    # Загрузка модели
     model = YOLO('yolov8s.pt')
 
-    # Обучение
     results = model.train(
         data='training_data/codes_data.yaml',
         epochs=100,

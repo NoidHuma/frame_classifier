@@ -1,4 +1,4 @@
-path: C:\Study\frame_classifier
+path: C:/Study/frame_classifier
 train: training_data/frame_train.txt
 val: training_data/frame_val.txt
 test: training_data/frame_test.txt
